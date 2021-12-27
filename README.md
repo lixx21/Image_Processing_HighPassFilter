@@ -2,7 +2,7 @@
 
 High Pass Filter take the high frequency and ignore the low frequency
 
-High Pass Filter can be use to sharpen an image, or make a edge detection.
+High Pass Filter can be use to sharpening an image, or make a edge detection.
 
 Characteristic of High Pass Filter is, the elements of the kernel matrix are negative, zero , and positive. Sum of all the elements are 0 (zero).
 
