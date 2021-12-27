@@ -1,6 +1,6 @@
 # Image_Processing_HighPassFilter
 
-High Pass Filter take the high frequency and throw ignore the low frequency
+High Pass Filter take the high frequency and ignore the low frequency
 
 High Pass Filter can be use to sharpen an image, or make a edge detection.
 
